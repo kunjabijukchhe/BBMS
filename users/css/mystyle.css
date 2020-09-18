@@ -1,0 +1,88 @@
+
+body{
+  /* background: url('https://cdn.pixabay.com/photo/2016/11/10/02/47/blood-1813410_960_720.jpg') fixed; */
+  /* background: url('https://static-communitytable.parade.com/wp-content/uploads/2014/03/rethink-target-heart-rate-number-ftr.jpg') fixed; */
+  /* background: url('https://images.unsplash.com/photo-1583912086096-8c60d75a53f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1506&q=80') fixed; */
+  /* background: url('https://cdn.pixabay.com/photo/2012/03/01/01/39/blood-20301_960_720.jpg') fixed; */
+  /* background: url('blood.jpg') fixed; */
+
+  /* background: url('https://vistapointe.net/images/blood-donation-2.jpg') fixed; */
+  background: url('https://images.unsplash.com/photo-1572470468728-1b2277637d30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60') fixed;
+  background-size: cover;
+
+
+
+}
+/* nav{
+  background: url('https://images.unsplash.com/photo-1572470468728-1b2277637d30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60') fixed;
+  background-size: cover;
+} */
+
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 25vh;
+  border-radius: 0px;
+  margin-top:10px;
+}
+
+.container
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* h2{
+    font-size: 32px;
+    font-family: "Cantarell",cursive;
+    /* font-family: 'Cantarell', sans-serif; */
+/*
+    color: crimson;
+} */
+table,th,td,tr{
+  /* border: 2px solid black; */
+  background-color: #f2f2f2;
+}
+h3{
+  font-family: 'Cantarell', sans-serif;
+}
+
+
+
+*[role="form"] {
+    max-width: 500px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.3em;
+    background-color: #f2f2f2;
+}
+
+*[role="form"] h2 {
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    /* font-size: 32px; */
+    /* font-family: "Cantarell",cursive; */
+    font-family: 'Cantarell', sans-serif;
+
+    color: crimson;
+}
+*[role="form"] h3 {
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    /* color: #000000; */
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 32px;
+
+    font-family: 'Cantarell', sans-serif;
+
+}
